@@ -9,4 +9,5 @@ docker-compose up --build
 
 ## 🔧 Architecture Diagram
 
-![Architecture](./image/diagram.png)
+![Architecture Diagram](./image/diagram.png)
+
